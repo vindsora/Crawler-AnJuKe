@@ -1,0 +1,8 @@
+<html>
+                <li>所在板块：<span>西青&nbsp;李七庄</span></li>
+                <li class="li-b">总户数：<span>暂无数据</span></li>
+                <li>绿化率：<span>20%（绿化率适中）</span></li>
+                <li class="li-b">停车位：<span>暂无数据</span></li>
+                <li>物业类型：<span>暂无数据</span></li>
+                <li class="li-b">竣工时间：<span>2010年</span></li>
+</html>            
